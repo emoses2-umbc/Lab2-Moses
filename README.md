@@ -1,4 +1,4 @@
-# Lab3-Moses
+# Lab2-Moses
 To compile and run the lab, just run the following in terminal:
 
 ```
